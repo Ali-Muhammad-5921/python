@@ -9,3 +9,5 @@ while(c > 0): # decrement while and a while with else
     c -= 1
 else:
     print("c is less than 1")
+
+
