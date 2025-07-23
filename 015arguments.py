@@ -6,7 +6,7 @@
 # average(4 ,5)
 # average(b = 10 , a = 8) # keywords arguments
 
-def average(*numbers):
+def average(*numbers): # *means the arguments are in form of tuple
     print(type(numbers))
     sum = 0
     for i in numbers:
