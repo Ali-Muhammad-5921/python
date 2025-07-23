@@ -5,7 +5,7 @@ l.append(15) # end pr add krna
 l.sort() # accessinding order
 l.sort(reverse=True) # descending order
 l.reverse() # list to ulta kr dy ga
-print(l.index[6]) # returns first  index of accurence  
+print(l.index(0)) # returns first  index of accurence  
 print(l.count(1)) # no of occurences
 #m = l # dono lists change hongi
 # m = l.copy()
