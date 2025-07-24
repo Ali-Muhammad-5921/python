@@ -1,0 +1,9 @@
+# doc string comment nhi bal k aik special type ki string hy jis ko python special tareeky sy treat krta hy
+# doc string function ki def k neechy wali line ma hota hy us sy neechy nhi
+
+def square (n):
+    '''This function takes a number as input and prints it's square'''
+    print("The square of",n, "is :" , n*n)
+
+square(5)
+print(square.__doc__)
