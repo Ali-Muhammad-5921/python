@@ -15,3 +15,7 @@ f.write('abc')
 f.close()
 
 # is trah append bhi kr skty hain 
+
+# with statement ko use kr k hum file ko automatically close kr skty hain 
+with open('myfile.txt' ,'r') as f:
+    f.read()
