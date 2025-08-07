@@ -1,2 +1,4 @@
-engine.say('Hi! I am Zira, your female virtual assistant.')
-# engine.runAndWait()
+print(next(gen))
+# print(next(gen))
+# print(next(gen))
+# print(next(gen))
